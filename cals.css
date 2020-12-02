@@ -1,0 +1,70 @@
+*{
+			width: 100;
+			padding: 100;
+		}
+		.button{
+			width: 176px;
+			height: 60px;
+			font-size: 40px;
+			margin: 2px;
+			cursor: pointer;
+			color:white ;
+			font-family: "robota" , sans-serif;
+			background: rgba(2,2,1,0.9);
+			border: none;
+
+		}
+		.button1{
+			width: 176px;
+			height: 60px;
+			font-size: 40px;
+			margin: 2px;
+			cursor: pointer;
+			color:red;
+			font-family: "robota" , sans-serif;
+			background: rgba(2,2,1,0.9);
+			border: none;
+
+		}
+				.button2{
+			width: 176px;
+			height: 60px;
+			font-size: 40px;
+			margin: 2px;
+			cursor: pointer;
+			color:orange;
+			font-family: "robota" , sans-serif;
+			background: rgba(2,2,1,0.9);
+			border: none;
+
+		}
+				.button3{
+			width: 176px;
+			height: 60px;
+			font-size: 40px;
+			margin: 2px;
+			cursor: pointer;
+			color:green;
+			font-family: "robota" , sans-serif;
+			background: rgba(2,2,1,0.9);
+			border: none;
+
+		}
+		.textview{
+			width: 690px;
+			margin:5px;
+			font-size: 35px;
+			padding: 20px;
+			color: orange;
+			border: none;
+			background: rgba(2,2,1,0.7);
+
+		}
+		.main{
+			position: absolute;
+			top: 60%;
+			left: 60%;
+			transform: translateX(-50%)translatey(-50%);
+			
+	}
+	
